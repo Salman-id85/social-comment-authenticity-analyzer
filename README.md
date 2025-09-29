@@ -51,9 +51,6 @@ Choose from the interactive menu:
 For detailed methodology and results, see:
 confercepaper.pdf()
 
-##License
-
-MIT License – free to use, modify, and distribute.
 
 ## Author
 Salman S
@@ -62,8 +59,10 @@ C Abdul Hakeem College of Engineering and Technology, Tamil Nadu, India
 
 ---
 
-##  License
-Use **MIT License** for maximum openness.
+## License
+
+MIT License – free to use, modify, and distribute.
+
 
 ---
 
