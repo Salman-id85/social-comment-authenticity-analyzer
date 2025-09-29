@@ -59,13 +59,6 @@ C Abdul Hakeem College of Engineering and Technology, Tamil Nadu, India
 
 ---
 
-## License
-
-MIT License – free to use, modify, and distribute.
-
-
----
-
 ### 6. Push to GitHub
 ```bash
 git init
@@ -75,3 +68,14 @@ git branch -M main
 git remote add origin https://github.com/your-username/comment-checker.git
 git push -u origin main
 ```
+
+---
+
+## License
+
+MIT License – free to use, modify, and distribute.
+
+
+
+
+
