@@ -55,14 +55,14 @@ confercepaper.pdf()
 
 MIT License – free to use, modify, and distribute.
 
-# Author
+## Author
 Salman S
 B.E. Computer Science and Engineering
 C Abdul Hakeem College of Engineering and Technology, Tamil Nadu, India
 
 ---
 
-### 5. Add a License
+##  License
 Use **MIT License** for maximum openness.
 
 ---
